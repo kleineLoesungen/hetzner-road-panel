@@ -4,7 +4,6 @@
   "description": "Panel for API",
   "productName": "Hetzner Road Panel",
   "author": "Sebastian Willer <sebastian.willer@hetzner.com>",
-  "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.ts,.vue ./",
     "format": "prettier --write \"**/*.{js,ts,vue,scss,html,md,json}\" --ignore-path .gitignore",
